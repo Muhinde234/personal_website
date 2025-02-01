@@ -335,9 +335,9 @@ section{
 
 
 .about{
-    /* min-height: 100vh;
+    min-height: 100vh;
     height: 100%;
-    width: 100%; */
+    width: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -360,7 +360,7 @@ section{
     border: 2px solid rgb(63, 153, 255);
     border-radius: 5px 5px 5px 5px;
     animation: morph 6s linear infinite;
-    /* border-radius: 54px 5px 30px 50px / 240px 5px 72% 30px; */
+    border-radius: 54px 5px 30px 50px / 240px 5px 72% 30px;
 }
 
 .about-content span{
@@ -573,6 +573,11 @@ main-text h2{
     width: 62%;
     animation: css 5s;
 }
+.skill-bar .bar .React
+{
+    
+}
+
 
   /* skill right ------ */
   .porfessional{
